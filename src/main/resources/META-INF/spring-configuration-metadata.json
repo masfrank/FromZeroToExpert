@@ -1,0 +1,10 @@
+{
+  "properties": [
+    {
+      "name": "custom.hello",
+      "type": "java.lang.String",
+      "description": "Description for custom.hello.",
+      "sourceType": "com.spk.fromzerotoexpert.controller.HelloController",
+      "defaultValue": "Hello"
+  }
+] }
